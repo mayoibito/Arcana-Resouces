@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/book"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data":10}, "model": "minecraft:item/magic/10"},
+        {"predicate": {"custom_model_data":11}, "model": "minecraft:item/magic/11"},
+        {"predicate": {"custom_model_data":12}, "model": "minecraft:item/magic/12"},
+        {"predicate": {"custom_model_data":13}, "model": "minecraft:item/magic/13"},
+        {"predicate": {"custom_model_data":14}, "model": "minecraft:item/magic/14"},
+        {"predicate": {"custom_model_data":15}, "model": "minecraft:item/magic/15"},
+        {"predicate": {"custom_model_data":16}, "model": "minecraft:item/magic/16"}
+    ]
+}

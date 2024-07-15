@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:shift_ui_1.ttf",
+            "shift": [0.0, 30.0],
+            "size": 8.0,
+            "oversample": 1.0
+        }
+    ]
+}
